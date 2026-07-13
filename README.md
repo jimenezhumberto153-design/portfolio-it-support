@@ -28,9 +28,13 @@ Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, po
 - **Redes:** LAN, DHCP, VLANs, troubleshooting de conectividad
 - **Seguridad:** Conceptos de EDR/XDR, hardening de endpoints, MITRE ATT&CK (en formación)
 - **Automatización:** PowerShell básico/intermedio
+<<<<<<< HEAD
 - **Herramientas de monitoreo:**
 - 
 
+=======
+- **Herramientas de monitoreo:** 
+>>>>>>> 93996f1 (mensaje)
 ## 📫 Contacto
 
 - LinkedIn: [tu enlace aquí]
