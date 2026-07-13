@@ -7,7 +7,7 @@ Este repositorio reúne proyectos prácticos que documentan mi trabajo en:
 - Administración de Microsoft 365
 - Redes (LAN, VLANs, monitoreo)
 - Hardening y seguridad de endpoints
-- Automatización con PowerShell
+- Automatización con PowerShell,cmd
 
 Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, por lo que algunos proyectos conectan ambos mundos (soporte + seguridad).
 
@@ -27,14 +27,8 @@ Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, po
 - **Microsoft 365:** Admin Center, licenciamiento, OneDrive/SharePoint, políticas de seguridad
 - **Redes:** LAN, DHCP, VLANs, troubleshooting de conectividad
 - **Seguridad:** Conceptos de EDR/XDR, hardening de endpoints, MITRE ATT&CK (en formación)
-- **Automatización:** PowerShell básico/intermedio
-<<<<<<< HEAD
-- **Herramientas de monitoreo:**
-- 
-
-=======
+- **Automatización:** PowerShell,cmd,terminal
 - **Herramientas de monitoreo:** 
->>>>>>> 93996f1 (mensaje)
 ## 📫 Contacto
 
 - LinkedIn: [tu enlace aquí]
