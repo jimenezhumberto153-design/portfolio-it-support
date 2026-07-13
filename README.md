@@ -1,6 +1,6 @@
 # Portafolio Técnico — Soporte IT / Help Desk / NOC
 
-👋 Hola, soy **Suizo**, Técnico en Sistemas (SENA) con experiencia en soporte técnico en **Redes de Acceso Global SAS**, con base en Cartagena, Colombia.
+👋 Hola, soy **humberto jimenez **, Técnico en Sistemas (SENA) con experiencia de 1 año  en soporte técnico en **Redes de Acceso Global SAS**, con base en Cartagena, Colombia.
 
 Este repositorio reúne proyectos prácticos que documentan mi trabajo en:
 - Soporte técnico y troubleshooting de Windows
@@ -28,8 +28,7 @@ Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, po
 - **Redes:** LAN, DHCP, VLANs, troubleshooting de conectividad
 - **Seguridad:** Conceptos de EDR/XDR, hardening de endpoints, MITRE ATT&CK (en formación)
 - **Automatización:** PowerShell,cmd,terminal
-- **Herramientas de monitoreo:** 
 ## 📫 Contacto
 
-- LinkedIn: [tu enlace aquí]
-- Correo: [tu correo aquí]
+- LinkedIn: [www.linkedin.com/in/humberto-jiménez-9a3544395]
+- Correo: [humbertojimenez0320@gmail.com]
