@@ -1,6 +1,6 @@
 # Portafolio Técnico — Soporte IT / Help Desk / NOC
 
-👋 Hola, soy **humberto jimenez **, Técnico en Sistemas (SENA) con experiencia de 1 año  en soporte técnico en **Redes de Acceso Global SAS**, con base en Cartagena, Colombia.
+👋 Hola, soy **humberto jimenez **, Técnico en Sistemas (SENA) con experiencia de 1 año en soporte técnico en **Redes de Acceso Global SAS**, con base en Cartagena, Colombia.
 
 Este repositorio reúne proyectos prácticos que documentan mi trabajo en:
 - Soporte técnico y troubleshooting de Windows
