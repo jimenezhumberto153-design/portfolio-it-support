@@ -8,6 +8,7 @@ Este repositorio reúne proyectos prácticos que documentan mi trabajo en:
 - Redes (LAN, VLANs, monitoreo)
 - Hardening y seguridad de endpoints
 - Automatización con PowerShell
+- Automatización con PowerShell
 
 Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, por lo que algunos proyectos conectan ambos mundos (soporte + seguridad).
 
