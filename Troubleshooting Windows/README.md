@@ -17,7 +17,6 @@ Actualmente estoy ampliando mi perfil hacia **ciberseguridad / SOC Analyst**, po
 | Proyecto | Descripción |
 |---|---|
 | [01 - Troubleshooting Windows](./01-troubleshooting-windows) | Casos de diagnóstico y resolución de problemas comunes en Windows, documentados como tickets resueltos |
-| [02 - Configuración Microsoft 365](./02-microsoft365-setup) | Setup de usuarios, licencias y políticas de seguridad básicas para una organización |
 | [03 - Laboratorio de Red](./03-red-lab-packet-tracer) | Topología de red con VLANs, DHCP y configuración de switches/routers |
 | [04 - Hardening de Endpoint](./04-hardening-endpoint) | Checklist de seguridad aplicado con evidencia de antes/después |
 | [05 - Automatización PowerShell](./05-automatizacion-powershell) | Scripts para tareas repetitivas de soporte técnico |
